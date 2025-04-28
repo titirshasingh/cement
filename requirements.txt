@@ -1,6 +1,6 @@
-streamlit
-tensorflow
+
+streamlit>=1.23.0
+tensorflow==2.11.0
 numpy
 scikit-learn
 joblib
-tensorflow==2.15.0
